@@ -12,6 +12,6 @@
  journey in machine learning.
  
  * Each week what I do will be updated in the weekly list. A plan list will also be present. This plan will work in a way that one is able to spend
- 1 hour per day and 4 hours during weekends. The plan can be customized as per your convinience.
+ 1 hour per day and 4 hours during weekends. The plan can be customized as per your convenience.
  
  Happy Learning! Wishing everyone a successful start!
